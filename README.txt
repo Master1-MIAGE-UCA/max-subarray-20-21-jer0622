@@ -1,4 +1,4 @@
-HIRTH Jeremy
+HIRTH DAUMAS Jeremy
 N°étu : 21708412
 Master 1 Informatique
 
